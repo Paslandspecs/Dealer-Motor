@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "name": "Supra Bapak",
+      "price": 13000000,
+      "category": "MT",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, delectus.",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/73/987/honda-vario-125-esp-80430.jpg",
+      "id": "4"
+    },
+    {
+      "name": "CBR",
+      "price": 21200000,
+      "category": "AT",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, delectus.",
+      "image": "https://media.suara.com/pictures/970x544/2022/02/25/71856-honda-cbr-150r-2021.jpg",
+      "id": "0dae"
+    },
+    {
+      "id": "0c9a",
+      "name": "XZY",
+      "price": 120000,
+      "category": "BT",
+      "description": "DGDG LOREMIPSUM",
+      "image": "https://www.hargamotorhondabandung.com/images/product/kredit-motor-honda-bandung-honda-cbr-150r-91.jpg"
+    },
+    {
+      "id": "11c9",
+      "name": "Batman Bycle",
+      "price": 999900000,
+      "category": "Hero",
+      "description": "MOtor batman yang sudah lama hilang ditelan oleh jaman",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2016/01/21/74c6d897-6b24-46f7-ba8e-55bf20308a8f.jpg?w=700&q=90"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "AT"
+    },
+    {
+      "id": "2",
+      "name": "MT"
+    },
+    {
+      "id": "7bb2",
+      "name": "BT"
+    },
+    {
+      "id": "c2a4",
+      "name": "Hero"
+    },
+    {
+      "id": "c4a1",
+      "name": "SS"
+    }
+  ]
+}
